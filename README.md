@@ -1,5 +1,5 @@
-# 미래 예측 (Lovely 4Team)
-ex) Titanic(오승태폼미쳤팀)
+# 미래 매출 예측 (Lovely 4Team)
+ex) predict future sales(Lovely 4Team)
 - 레포지토리 이름 규칙에 따라 선택하여 작성해주시길 바랍니다.
 
 </br>
@@ -73,13 +73,13 @@ ex) Titanic(오승태폼미쳤팀)
 - 프로젝트를 자유양식으로 자유롭게 설명해주세요
 
 **ML_project_Taitanic**
-- 대회명 : 타이타닉 생존자 예측
-- 팀명 : 오승태콤미쳤팀
-- 주제 : 타이타님 생존자를 예측하는 ML 구현
+- 대회명 : predict future sales(미래 매출 예측)
+- 팀명 : Lovely 4Team
+- 주제 : 미래 월별 매출을 예측하는 시계열 대회
 
 
-- 데이터셋 : 데이콘(https://dacon.io/competitions/open/235539/overview/description)
-- 목적/효과 : 타이타님 생존자의 정보를 ~~~~~~~ 예측하는 모델을 ~~~~~~~~~ 이용하여 ㅇ떻게 ~~~~~~ 개발
+- 데이터셋 : 캐글([https://dacon.io/competitions/open/235539/overview/description](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales))
+- 목적/효과 : 미래 월별 매출을 예측하는 시계열 대회를 통해 시계열 데이터를 다루는 방법을 학습하고 시계열 모델링을 공부한다.
 - 기술스택<div align=left> 
    `전처리` : 
    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">
@@ -102,11 +102,6 @@ ex) Titanic(오승태폼미쳤팀)
    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
        <br>
    </div>
-
-- 역할분담 
-   - `최지혁` : EDA, 시각화
-   - `오승태` : 전처리, 통계검증
-   - `정래경` : 머신러닝 학습, 모델링, 모델 최적화
 <br/>
 
 ## ETCs
